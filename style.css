@@ -2,7 +2,7 @@ body {background-color: rgb(245, 183, 177);}
 button {background-color :  pink;}
 button a {color :  rgb(123, 36, 28);
   font-family: 'Wasted Vindey', Monospace; /* Gunakan fallback font */
-  font-size: 32px;
+  font-size: 18px;
 }
 @font-face {
   font-family: 'Rustic Roadway';
@@ -18,6 +18,6 @@ h1 {
   color: rgb(123, 36, 28); /* Warna teks */}
 p {
   font-family: 'Wasted Vindey', Monospace; /* Gunakan fallback font */
-  font-size: 32px;/* Ubah ukuran font sesuai kebutuhan */
+  font-size: 18px;/* Ubah ukuran font sesuai kebutuhan */
   color: rgb(123, 36, 28); /* Warna teks */}
   }
