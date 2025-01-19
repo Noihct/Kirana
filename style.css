@@ -1,0 +1,23 @@
+body {background-color: rgb(245, 183, 177);}
+button {background-color :  pink;}
+button a {color :  rgb(123, 36, 28);
+  font-family: 'Wasted Vindey', Monospace; /* Gunakan fallback font */
+  font-size: 32px;
+}
+@font-face {
+  font-family: 'Rustic Roadway';
+  src: url('font/RusticRoadway.otf') format('truetype');
+}
+@font-face {
+  font-family: 'Wasted Vindey';
+  src: url('font/Wasted-Vindey.ttf') format('truetype');
+}
+h1 {
+  font-family: 'Rustic Roadway', sans-serif; /* Gunakan fallback font */
+  font-size: 3em; /* Ubah ukuran font sesuai kebutuhan */
+  color: rgb(123, 36, 28); /* Warna teks */}
+p {
+  font-family: 'Wasted Vindey', Monospace; /* Gunakan fallback font */
+  font-size: 32px;/* Ubah ukuran font sesuai kebutuhan */
+  color: rgb(123, 36, 28); /* Warna teks */}
+  }
